@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>News</title>
+    <link>http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News</link>
+    <description>Welcome to the news section, this is where you can find my latest personal updates, with show times, solo performances, etc.</description>
+    <item>
+      <title>Guitar Building News!</title>
+      <link>http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News/Entries/2010/3/30_Photo_of_the_Day.html</link>
+      <guid isPermaLink="false">cc07f4c2-5dff-40bc-9c43-2b1d32b5661d</guid>
+      <pubDate>Tue, 30 Mar 2010 00:28:43 -0400</pubDate>
+      <description>Yesterday I began two projects and continued a third working with Patrick Raymond of Raymond Guitars (also my band mate!)&lt;br/&gt;I continued work on building my lap steel...&lt;br/&gt;I have been working on this for a couple of years now as a side project...&lt;br/&gt;of course once it's finished I have to learn to play it!&lt;br/&gt;&lt;br/&gt;I also started two other projects...&lt;br/&gt;I began a neck reset project on my 1980 Martin D-28-12 guitar.&#xA0; &lt;br/&gt;It is my hope to get this fixed once and for all and make it playable again, &lt;br/&gt;and learn a lot from Patrick in the meantime!&#xA0; As you can see in the picture, &lt;br/&gt;I got so excited about getting the project started that I removed the 4th fret instead of the 15th fret as Patrick had instructed...but it's okay, they all get replaced before the job is finished!&#xA0; The 15th fret gets removed so we can drill a hole for a small needle to be inserted into the neck joint to inject steam into the joint, melting the glue and allowing us to remove the neck for the badly needed &amp;quot;reset.&amp;quot;&#xA0;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;Lastly, we started refurbishing an old neck I had built which I will use on a solid body electric I have had in my mind for quite some time.&#xA0; The first step was to remove the old heel and then remove all of the frets to re-radius the fingerboard from flat to a 16&amp;quot; radius.&#xA0; Here is a picture of a few of the steps:&lt;br/&gt;&lt;br/&gt;</description>
+      <iweb:image href="Media/object011.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News/Entries/2010/3/30_Photo_of_the_Day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

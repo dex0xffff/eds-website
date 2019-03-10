@@ -1,0 +1,46 @@
+﻿/* CSS For Polaroid Gallery */
+
+html, body {
+	height:100%;
+	width:100%;
+	margin:0;
+	font:20px "Arial, Helvetica, Verdana";
+	color:#4a4d50;
+	background:#e8eae6;
+}
+a {
+	color:#ffffff;
+	font-weight:bold;
+	text-decoration:none;
+}
+h1 {
+	font-size:40px;
+	margin:15px 0 5px 0;
+}
+h2 {
+	font-size:16px;
+	border-bottom:1px solid #979a9d;
+	margin:0 0 2px 0;
+}
+p {
+	margin:4px 0 10px 0;
+}
+#wrapper {
+	margin:0 auto;
+	width:815px;
+}
+#header {
+	border-top:5px solid #4a4d50;
+	border-bottom:1px solid #4a4d50;
+	margin:0 0 15px 0;
+}
+#demo {
+	height:600px;
+	width:600px;
+	float: left;
+	margin:0 15px 0 0;
+}
+#right {
+	width:200px;
+	float:left;
+}

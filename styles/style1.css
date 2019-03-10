@@ -1,0 +1,436 @@
+﻿@import url("layout.css");
+body {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 0.8em;
+	background-image: url("../images/RSJLPNH21.jpg");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+#container {
+	width: 800px;
+	margin: 0 auto;
+	padding: 10px;
+	border-right: 3px solid #E4E3E2;
+	border-bottom: 3px solid #A9A59F;
+	border-left: 1px solid #725972;
+	background-color: #fff;
+	background-image: url("../images/dad7.jpg");
+	filter:alpha(opacity=95);
+	opacity:.95;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+
+}
+#masthead {
+	text-align: center;
+	width: 778px;
+	padding: 10px;
+	border: 1px dotted #C0EBFC;
+	background-image: url("../images/banner.png");
+	background-repeat:no-repeat;
+	background-attachment:scroll;
+    margin-right: auto;
+    width: 60em
+
+}
+#navigation {
+	position: relative;
+	float: left;
+	width: 135px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-right: 3px solid #E4E3E2;
+	border-bottom: 3px solid #A9A59F;
+	border-left: 1px solid #725972;
+}
+#content {
+	float: left;
+	width: 650px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#footer {
+	text-align: center;
+	clear: both;
+	width: 796px;
+	border: 2px solid #C0EBFC;
+}
+#footer2 {
+	position: relative;
+	float: left;
+	width: 5px;
+	color: #fff;
+	opacity:.55;
+}
+
+/* Masthead Styles */
+#masthead h1 {
+	color: #fff;
+}
+#masthead h3 {
+	color: #402640;
+}
+/* Navigation Styles */
+#navigation ul {
+
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#navigation li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #fff;
+	background-color: #fff;
+	
+}
+#navigation a {
+	color: #402640;
+	text-decoration: none;
+	display: block;
+	padding: 5px;
+	border-bottom: 1px dotted #fff;
+	background-color: #fff;
+	background-image:url("../images/nav22.png");
+	background-repeat:no-repeat;
+
+	
+}
+#navigation a:hover {
+	color: #402640;
+	text-decoration: none;
+	background-color: #fff;
+	background-image:url("../images/nav.png");
+	background-repeat:no-repeat;
+}
+#gallery a {
+	color: #402640;
+	text-decoration: none;
+	display: block;
+	padding: 55px;
+	border-bottom: 1px dotted #fff;
+	background-color: #fff;
+	background-image:url('../photo_gallery/images/gibson2.png');
+	background-repeat:no-repeat;
+
+	
+}
+#gallery ul {
+
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#gallery li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #fff;
+	background-color: #fff;
+	
+}
+
+#gallery a:hover {
+	color: #402640;
+	text-decoration: none;
+	background-color: #fff;
+	background-image:url('../photo_gallery/images/gibson3.png');
+	background-repeat:no-repeat;
+}
+
+#gallery2 a {
+	color: #402640;
+	text-decoration: none;
+	display: block;
+	padding: 55px;
+	border-bottom: 1px dotted #fff;
+	background-color: #fff;
+	background-image:url('../photo_gallery/images/events.png');
+	background-repeat:no-repeat;
+
+	
+}
+#gallery2 ul {
+
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#gallery2 li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #fff;
+	background-color: #fff;
+	
+}
+
+#gallery2 a:hover {
+	color: #402640;
+	text-decoration: none;
+	background-color: #fff;
+	background-image:url('../photo_gallery/images/events2.png');
+	background-repeat:no-repeat;
+}
+
+
+#gallery3 a {
+	color: #402640;
+	text-decoration: none;
+	display: block;
+	padding: 55px;
+	border-bottom: 1px dotted #fff;
+	background-color: #fff;
+	background-image:url('../photo_gallery/images/eds.png');
+	background-repeat:no-repeat;
+
+	
+}
+#gallery3 ul {
+
+	list-style-type: none;
+	width: 100%;
+	display: block;
+	margin: 0;
+	padding: 0;
+}
+#gallery3 li {
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 1px dotted #fff;
+	background-color: #fff;
+	
+}
+
+#gallery3 a:hover {
+	color: #402640;
+	text-decoration: none;
+	background-color: #fff;
+	background-image:url('../photo_gallery/images/eds2.png');
+	background-repeat:no-repeat;
+}
+
+/* Content Styles */
+#content h1,h2,h3,h4,h5,h6 {
+
+	color: #503750;
+}
+#content img {
+
+	padding: 5px;
+	border: 0px solid #402640;
+}
+
+
+/*guitar gallery*/
+#j160e a {
+	display:block;
+	background-image:url('../photo_gallery/guitar/j160e.png');
+	background-repeat:no-repeat;
+
+	
+}
+#j160e ul {
+
+	list-style-type: none;
+	width: 0px;
+	display:inline-block;
+	margin: 0;
+	padding: 0;
+}
+#j160e li {
+	display:inline-block;
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+	
+}
+
+#j160e a:hover {
+	color: #402640;
+	text-decoration: none;
+	background-color: #fff;
+	background-image:url('../photo_gallery/guitar/j160e2.png');
+	background-repeat:no-repeat;
+}
+
+
+
+#events a {
+	display:block;
+	background-image:url('../images/starthere.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+
+#calender a {
+	display:block;
+	background-image:url('../images/kedit.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#smallguitar a {
+	display:block;
+	background-image:url('../images/c0f80f82.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#edsmusic a {
+	display:block;
+	background-image:url('../images/music.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#guestbook a {
+	display:block;
+	background-image:url('../images/kopete.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#game a {
+	display:block;
+	background-image:url('../images/rook.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+
+#contactspic a {
+	display:block;
+	background-image:url('../images/contents.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#realcontactspic a {
+	display:block;
+	background-image:url('../images/mailappt.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#photos a {
+	display:block;
+	background-image:url('../images/lphoto.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+
+
+#videos a {
+	display:block;
+	background-image:url('../images/aktion.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#blank a {
+	display:block;
+	background-image:url('../images/blank.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#secret a {
+	display:block;
+	background-image:url('../images/blank.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+
+
+#musics a {
+	display:block;
+	background-image:url('../images/Music01-Stacks.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#writer a {
+	display:block;
+	background-image:url('../images/writer.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+
+
+#news a {
+	display:block;
+	background-image:url('../images/knewsticker.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+#about a {
+	display:block;
+	background-image:url('../images/cal.png');
+	background-repeat:no-repeat;
+
+	
+}
+
+
+/* Footer Styles */
+#footer p {
+	color: #808080;
+	
+}
+#footer a {
+
+	color: #503750;
+	text-decoration: underline;
+}
+#footer a:hover {
+	color: #402640;
+	text-decoration: none;
+}
+a {
+	color: #402640;
+	text-decoration: underline;
+}
+a:hover {
+	color: #dfb8df;
+	text-decoration: underline;
+}
+.style_bold {
+	font-weight: bold;
+}
+.style_italic {
+	font-style: italic;
+}
+img {
+border: 0 !important;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>News</title>
+    <link>http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News</link>
+    <description>Welcome to the news section, this is where you can find my latest personal updates, with show times, solo performances, etc.</description>
+    <item>
+      <title>Guitar Building News!</title>
+      <link>http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News/Entries/2010/3/30_Photo_of_the_Day.html</link>
+      <guid isPermaLink="false">cc07f4c2-5dff-40bc-9c43-2b1d32b5661d</guid>
+      <pubDate>Tue, 30 Mar 2010 00:28:43 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News/Entries/2010/3/30_Photo_of_the_Day.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://mysite.verizon.net/emsparks/Edward_Sparks_-_Singer_Songwriter_Musician_-/News</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

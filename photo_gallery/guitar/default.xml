@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	fhShow Carousel 1.7 configuration file
+	Please visit http://www.flshow.net/ for more info
+-->
+
+<slide_show>
+	<options>
+		<background>transparent</background>		<!-- #RRGGBB, transparent -->
+		<interaction>
+			<speed>30</speed>						<!-- [-360,360] degrees per second -->
+			
+			<default_speed>5</default_speed>		<!-- [-360,360] degrees per second -->
+		</interaction>
+	</options>
+	<photo href="./theguitars/comingsoon.htm" target="_self">./comingsoon.png</photo>
+	<photo href="./theguitars/lap.htm" target="_self">./lap.png</photo>
+	<photo href="./theguitars/model21.htm" target="_self">./model21.png</photo>
+	<photo href="./theguitars/bbass.htm" target="_self">./bbass.png</photo>
+	<photo href="./theguitars/j100.htm" target="_self">./j100.png</photo>
+	<photo href="./theguitars/j160e.htm" target="_self">./j160e.png</photo>
+	<photo href="./theguitars/blueb.htm" target="_self">./blueb.png</photo>
+	<photo href="./theguitars/broad.htm" target="_self">./broad.png</photo>
+	<photo href="./theguitars/bruno.htm" target="_self">./bruno.png</photo>
+	<photo href="./theguitars/baby.htm" target="_self">./baby.png</photo>
+	<photo href="./theguitars/zenith.htm" target="_self">./zenith.png</photo>
+	<photo href="./theguitars/pat.htm" target="_self">./pat.png</photo>
+	<photo href="./theguitars/banjo.htm" target="_self">./banjo.png</photo>
+	<photo href="./theguitars/vega.htm" target="_self">./vega.png</photo>
+	<photo href="./theguitars/fmando.htm" target="_self">./fmando.png</photo>
+	<photo href="./theguitars/d2812.htm" target="_self">./d2812.png</photo>
+	<photo href="./theguitars/jf30.htm" target="_self">./jf30.png</photo>
+	<photo href="./theguitars/dobro.htm" target="_self">./dobro.png</photo>
+	<photo href="./theguitars/lpsig.htm" target="_self">./lpsig.png</photo>
+	<photo href="./theguitars/sparks12.htm" target="_self">./sparks12.png</photo>
+	<photo href="./theguitars/obass.htm" target="_self">./obass.png</photo>
+	<photo href="./theguitars/g12.htm" target="_self">./g12.png</photo>
+	<photo href="./theguitars/sparks8.htm" target="_self">./sparks8.png</photo>
+	<photo href="./theguitars/ffb1.htm" target="_self">./ffb1.png</photo>
+	<photo href="./theguitars/pm1.htm" target="_self">./pm1.png</photo>
+	<photo href="./theguitars/d28.htm" target="_self">./d28.png</photo>
+	<photo href="./theguitars/teisco.htm" target="_self">./teisco.png</photo>
+	<photo href="./theguitars/obal.htm" target="_self">./obal.png</photo>
+	<photo href="./theguitars/cortez.htm" target="_self">./cortez.png</photo>
+	<photo href="./theguitars/fg260.htm" target="_self">./fg260.png</photo>
+	<photo href="./theguitars/sovnat.htm" target="_self">./sovnat.png</photo>
+	<photo href="./theguitars/univox.htm" target="_self">./univox.png</photo>
+	<photo href="./theguitars/stella.htm" target="_self">./stella.png</photo>
+	<photo href="./theguitars/tiger.htm" target="_self">./tiger.png</photo>
+
+</slide_show>

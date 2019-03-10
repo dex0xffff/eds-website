@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+	fhShow Carousel 1.5 configuration file
+	Please visit http://www.flshow.net/ for more info
+-->
+
+<slide_show>
+	<options>
+		<background>#FFFFFF</background>		<!-- #RRGGBB, transparent -->
+	</options>
+
+	<photo href="#end" target="_self">../images/DCP_0730.jpg</photo>
+	<photo href="http://www.google.it/search?hl=en&amp;q=saverio+caminiti" target="_self">../images/DCP_0731.jpg</photo>
+	<photo href="javascript:myFun('Saverio',123)" target="_self">../images/DCP_0732.jpg</photo>
+
+</slide_show>
